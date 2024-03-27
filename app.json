@@ -10,23 +10,23 @@
             "value": "True",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {6710920875:AAFdScIalSGTtN3dLWPCtJqDSx2THPWPFdc
             "description": "Your bot token.",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {24580884
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {ccbae32eebd5903b5db2d40616476c7f
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "CHANNELS": {
+        "CHANNELS": {-1002005073880
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
-        "ADMINS": {
+        "ADMINS": {1141965474
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
@@ -42,11 +42,11 @@
             "description": "Add some telegraph link of pictures .",
             "required": false
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL": {-1001957925597
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true                              
         },
-        "AUTH_CHANNEL": {
+        "AUTH_CHANNEL": { -1002061066371
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },           
